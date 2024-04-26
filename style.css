@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(57, 57, 208);
+}
+#container{
+    background-color: white;
+    margin: auto;
+    border: 5px solid lightblue;
+    font-size: 50px;
+    padding: 5px;
+    text-align: center;
+    height: 550px;
+    width: 450px;
+    background-color: white;
+    margin-top: 50px;
+}
+#button{
+    margin-top: 10px;
+    background-color:rgb(0, 255, 238);
+    font-size: 30px;
+}
+
+#gues{
+    margin-top: 8px;
+    background-color:rgb(23, 68, 214);
+    font-size: 40px;
+    block-size: 10%;
+    text-decoration-color: white;
+}
+#textfield{
+    font-size: 30px;
+    border-radius: 10px;
+    box-sizing: 5px;
+    size: 10px;
+}
+
+h2{
+  
+    font-size: 30px;
+    border-color: blue;
+   background-color: blue ;
+}
+h5{
+  
+    font-size: 30px;
+   
+    color: rgb(96, 11, 127);
+
+}
+h6{
+  
+    font-size: 20px;
+    border-color: blue;
+    
+
+}
+
+
+label{
+    font-size: 30px;
+}
+#msg{
+    background-color: rgb(107, 243, 255);
+    margin-right: 0px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+div{
+    text-align: center;
+}
